@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactFilteringApp/static/css/main.e3ca914b.chunk.css",
+    "main.js": "/ReactFilteringApp/static/js/main.8191df56.chunk.js",
+    "main.js.map": "/ReactFilteringApp/static/js/main.8191df56.chunk.js.map",
+    "runtime~main.js": "/ReactFilteringApp/static/js/runtime~main.8436b150.js",
+    "runtime~main.js.map": "/ReactFilteringApp/static/js/runtime~main.8436b150.js.map",
+    "static/js/2.7bd8eb7e.chunk.js": "/ReactFilteringApp/static/js/2.7bd8eb7e.chunk.js",
+    "static/js/2.7bd8eb7e.chunk.js.map": "/ReactFilteringApp/static/js/2.7bd8eb7e.chunk.js.map",
+    "index.html": "/ReactFilteringApp/index.html",
+    "precache-manifest.9e32e9b463ea20ba8b873d5feba23696.js": "/ReactFilteringApp/precache-manifest.9e32e9b463ea20ba8b873d5feba23696.js",
+    "service-worker.js": "/ReactFilteringApp/service-worker.js",
+    "static/css/main.e3ca914b.chunk.css.map": "/ReactFilteringApp/static/css/main.e3ca914b.chunk.css.map"
+  }
+}
